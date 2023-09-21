@@ -21,7 +21,7 @@
   "about": {
     "title": "About me",
     "image": "/aboutme.jpg",
-    "primary": "I'm a software engineer from NYC with experience in software development. I've worked with Python, FastAPI, Node.js, and React, and have experience using both SQL and NoSQL databases. I began learning to code as a teenager, and after studying Computer Information Systems in college, I realized that software engineering was the perfect career for me. I'm passionate about building high-quality software solutions that meet the needs of end-users and I'm always striving to learn new technologies and frameworks to stay up-to-date with the latest trends.",
+    "primary": "I'm a developer from NYC with experience in software development. I've worked with Python, FastAPI, Node.js, and React, and have experience using both SQL and NoSQL databases. I began learning to code as a teenager, and after studying Computer Information Systems in college, I realized that software engineering was the perfect career for me. I'm passionate about building high-quality software solutions that meet the needs of end-users and I'm always striving to learn new technologies and frameworks to stay up-to-date with the latest trends.",
     "secondary": ""
   },
   "projects": {
