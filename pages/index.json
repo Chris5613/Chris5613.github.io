@@ -33,14 +33,7 @@
         "url": "https://www.rankriddler.com",
         "github": "https://github.com/Chris5613/RankRiddler",
         "image": "/rankriddler.jpg"
-      },
-      {
-				"title": "Gamerconnect",
-				"description": "GamerConnect is a web application designed to facilitate connections among gamers seeking to collaborate and play together. This platform enables users to create and share posts within the gaming community.",
-				"url": "https://gamerconnect.gitlab.io/module3-project-gamma/",
-        "github": "https://github.com/Chris5613/Gamerconnect",
-				"image": "/gamerconnect.png"
-			}
+      }
     ]
   },
   "contact": {
